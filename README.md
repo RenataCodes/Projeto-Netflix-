@@ -6,3 +6,5 @@
 - CSS
   <br>
 - JavaScript</p>
+
+<img src="https://github.com/RenataCodes/Projeto-Netflix-/blob/main/Captura%20de%20tela%20Netflix.png?raw=true" />
